@@ -3,7 +3,7 @@
   font-size: 120%;
   color: #123456;
 }
-.button {
+a.button {
  color: white;
  text-decoration: none;
  padding: 16px 25px;
